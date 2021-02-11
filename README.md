@@ -3,3 +3,8 @@
 <img src="Screenshot.png" width="150">
 
 <img src="count.png" width="150">
+
+![](countgif.gif)
+
+
+![](hellotoast.gif)
